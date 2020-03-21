@@ -1,7 +1,7 @@
 # CVPR 2018 Paper
 ## 分享CVPR2018论文，持续更新。。。  
 ## 精选论文学习分享，实时分享当前热点处理算法。以及论文学习、下载，请关注公众号：CNNer  
-![image](https://github.com/cnner-code/CVPR_2019/blob/master/image/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)  
+![image](https://github.com/cnner-code/CVPR-2018/blob/master/image/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)  
 
 index	title
 1	Bansal_Deep_Features_for_CVPR_2018_paper  
